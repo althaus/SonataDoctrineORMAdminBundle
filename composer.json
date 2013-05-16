@@ -23,10 +23,10 @@
 		"MIT"
 	],
 	"require" : {
-		"sonata-project/admin-bundle" : ">=2.2.2",
-		"knplabs/knp-menu-bundle" : "~1.1",
-		"symfony/symfony" : ">=2.3,<2.4",
-		"doctrine/orm" : "~2.3"
+		"sonata-project/admin-bundle" : "dev-master",
+		"knplabs/knp-menu-bundle" : "master",
+		"symfony/symfony" : "dev-master",
+		"doctrine/orm" : ">=2.2.3,<2.4-dev"
 	},
 	"autoload" : {
 		"psr-0" : {
