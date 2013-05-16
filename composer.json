@@ -25,7 +25,7 @@
 	"require" : {
 		"sonata-project/admin-bundle" : "dev-dev-2.3",
 		"knplabs/knp-menu-bundle" : "master",
-		"symfony/symfony" : "dev-master",
+		"symfony/symfony" : "2.3.x",
 		"doctrine/orm" : ">=2.2.3,<2.4-dev"
 	},
 	"autoload" : {
@@ -36,7 +36,7 @@
 	"target-dir" : "Sonata/DoctrineORMAdminBundle",
 	"extra" : {
 		"branch-alias" : {
-			"dev-master" : "2.3-dev"
+			"dev-master" : "dev-2.3"
 		}
 	}
 }
