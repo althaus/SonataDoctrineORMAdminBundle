@@ -23,7 +23,7 @@
 		"MIT"
 	],
 	"require" : {
-		"sonata-project/admin-bundle" : "dev-master",
+		"sonata-project/admin-bundle" : "dev-2.3",
 		"knplabs/knp-menu-bundle" : "master",
 		"symfony/symfony" : "dev-master",
 		"doctrine/orm" : ">=2.2.3,<2.4-dev"
